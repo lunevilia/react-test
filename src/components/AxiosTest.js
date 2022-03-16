@@ -32,6 +32,7 @@ const AxiosTest = () => {
     return (
         <div>
             <h3>서버로부터 받아온 값</h3>
+            {result}
         </div>
     );
 };
